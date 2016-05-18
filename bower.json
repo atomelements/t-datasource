@@ -1,6 +1,6 @@
 {
   "name": "t-datasource",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Rahul Pilkhwal <rahul.pilkhwal@tavisca.com>",
     "Shailesh Kumar Srivastava <ssrivastava@tavisca.com>",
@@ -24,9 +24,9 @@
     "test",
     "tests"
   ],
-  "dependencies": { 
+  "dependencies": {
     "iron-ajax": "PolymerElements/iron-ajax#1.0.0",
-    "iron-meta": "PolymerElements/iron-meta#1.0.3", 
+    "iron-meta": "PolymerElements/iron-meta#1.0.3",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
